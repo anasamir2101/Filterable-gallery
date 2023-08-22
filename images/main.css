@@ -1,0 +1,13 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+/* navbar section */
+.navbar{
+ 
+}
+li{
+ list-style-type: none;
+ text-decoration: none;
+}
